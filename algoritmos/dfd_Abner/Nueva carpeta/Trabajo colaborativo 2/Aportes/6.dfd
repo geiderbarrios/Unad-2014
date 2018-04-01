@@ -1,0 +1,119 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+'Digite la cantidad en metros que desee convertir'
+5
+1
+8
+cantidad
+4
+1
+93
+'Desea convertirlo a centimetros, marque 1 para continuar, de lo contrario marque otra tecla'
+5
+1
+1
+a
+7
+0
+1
+3
+a=1
+4
+1
+41
+'Desea convertir en kilometros, marque 1'
+5
+1
+1
+a
+7
+0
+1
+3
+a=1
+4
+1
+88
+'Desea convertir a pies, marque 1 si es lo que desea, de lo contrario digite otra tecla'
+5
+1
+1
+a
+7
+0
+1
+3
+a=1
+4
+1
+75
+'Si desea convertir a pulgadas digite 1, de lo contrario digite otra tecla'
+5
+1
+1
+a
+7
+0
+1
+3
+a=1
+4
+1
+38
+'Lo sentimos pero no podemos ayudarle'
+13
+6
+1
+2
+pu
+15
+cantidad*39.370
+4
+1
+36
+'Su resultado en pulgadas es de ',pu
+13
+13
+6
+1
+1
+p
+16
+cantidad*3.2808 
+4
+1
+31
+'Su resultado en pies es de ',p
+13
+13
+6
+1
+1
+k
+13
+cantidad/1000
+4
+1
+36
+'la cantidad en kilometros es de ',k
+13
+13
+6
+1
+1
+C
+12
+cantidad*100
+4
+1
+34
+'La cantidad en centimetros es ',c
+13
+1

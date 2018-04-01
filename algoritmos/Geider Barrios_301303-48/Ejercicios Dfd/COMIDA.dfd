@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'PROGRAMA PARA PREPARAR EL MUTE SANTANDEREANO'
+4
+1
+31
+'Verificar el plato a preparar'
+4
+1
+24
+'Tiene los ingredientes'
+4
+1
+88
+'SI TIENE LOS INGREDIENTES  << OPCION 1-----NO TIENE INGREDIENTES <<OPCION 2....¿CUAL?' 
+5
+1
+3
+OPC
+9
+1
+14
+OPC>2 OR OPC<1
+4
+1
+12
+'NO SE HACE'
+4
+1
+3
+OPC
+11
+7
+0
+1
+5
+OPC=1
+4
+1
+23
+'COMPRAR LOS PRODUCTOS'
+13
+4
+1
+38
+'SELECCIONA LOS INGREDIENTES DEL MUTE'
+13
+4
+1
+25
+'Lavado de los productos'
+4
+1
+35
+'Poner a cocinar todas las carnes' 
+4
+1
+49
+'En otra olla se concina el mondongo o  vísceras'
+4
+1
+40
+'En otra olla se concina la pata de res'
+4
+1
+55
+'Se agregan las verduras en la olla de la carne de res'
+4
+1
+69
+'Por ultimo todo se reúne en una sola olla y se deja hervir al punto'
+4
+1
+53
+'TODOS AHORA PUEDEN COMER UN DELICIOSO PLATO DE MUTE'
+1

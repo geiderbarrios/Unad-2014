@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'PROGRAMA PARA CONOCER EL DESCUENTO POR LA COMPRA DE UN PRODUCTO'
+4
+1
+92
+'AQUI ESCRIBA UN NUMERO DE 1 DIGITO.. DEL 1 AL 9.. CON EL OBJETIVO DE TENER UNA REFERENCIA '
+5
+1
+3
+NbP
+4
+1
+35
+'escriba el  precio del producto: '
+5
+1
+3
+PrP
+7
+0
+1
+13
+PrP >= 120000
+6
+2
+4
+DsCT
+10
+PrP * 0.06
+3
+DCT
+1
+6
+13
+6
+2
+4
+DsCT
+10
+PrP * 0.12
+3
+DCT
+2
+12
+13
+6
+1
+5
+Total
+10
+PrP - DsCT
+4
+1
+137
+'el producto del digito que usted escribio:     ',NbP,'     CUESTA : ',PrP,' - Descuento del: ',DCT,'%: ',DsCT,' - Total a pagar: ',Total
+1

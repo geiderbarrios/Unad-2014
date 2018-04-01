@@ -1,0 +1,88 @@
+/*
+6. Escriba un programa para calcular si un número es primo o no, recuerde que los
+números primos son aquellos que solo son divisibles por la unidad y por ellos mismos:
+ejemplo 5, 11, 17
+*/
+
+#include<stdio.h>
+#include<conio.h>
+#include<iostream>
+
+int main()
+{
+    using std::cout;
+    using std::cin;
+   
+  
+    cout << "\t\t UNIVERSISDAD NACIONAL ABIERTA Y A DISTANCIA\n\n";
+	cout << "\t\tPROGRAMA PARA CALCULAR SI UN NUMERRO ES PRIMO\n\n";
+	unsigned  int primo, x;
+	cout << "Ingrese un Numero Entero Positivo\t" ;
+    cin >> x;
+	
+	
+	if (x == 1 ||  x == 2 || x == 3 || x == 5 || x == 7)
+	{
+	cout << "\n\n\t\t**EL NUMERO ES PRIMO**\n\n";
+	
+	//return 0;
+	}
+	else
+	{
+	primo = x % 2;
+	if (primo == 0)
+		{
+		cout << "\n\n\t\t**EL NUMERO NO ES PRIMO**\n\n";
+		cout << "Gracias por su colaboracion... \n";
+		getch();
+		return 0;
+		}
+	else  
+	
+	primo = x % 3;
+	
+	if (primo == 0)
+		{
+		cout << "\n\n\t\t**EL NUMERO NO ES PRIMO**\n\n";
+		cout << "Gracias por su colaboracion... \n";
+		getch();
+		return 0;
+		}
+		
+		
+	else	
+	primo = x % 5;
+	
+	if (primo == 0)	
+	
+		{
+		cout << "\n\n\t\t**EL NUMERO NO ES PRIMO**\n\n";
+		cout << "Gracias por su colaboracion... \n";
+		getch();
+		return 0;
+		}
+			
+	else
+	primo = x % 7;
+	
+	if (primo == 0)
+	
+		{
+		cout << "\n\n\t\t**EL NUMERO NO ES PRIMO**\n\n";
+		cout << "Gracias por su colaboracion... \n";
+		getch();
+		return 0;
+		}
+			
+	else
+
+	cout << "\n\n\t\t**EL NUMERO ES PRIMO**\n\n";
+	}	
+	
+
+	cout << "Gracias por su colaboracion... \n";
+
+   
+	getch();
+	return 0;
+	}

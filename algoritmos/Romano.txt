@@ -1,0 +1,137 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+68
+'programa para conocer el equivalente en numero romanos del 1 al 10'
+4
+1
+32
+'ingresar un numero del 1 al 10'
+5
+1
+6
+numero
+7
+0
+1
+26
+(numero<1) or (numero>=11)
+7
+0
+1
+8
+numero=1
+7
+0
+1
+8
+numero=2
+7
+0
+1
+8
+numero=3
+7
+0
+1
+8
+numero=4
+7
+0
+1
+8
+numero=5
+7
+0
+1
+8
+numero=6
+7
+0
+1
+8
+numero=7
+7
+0
+1
+8
+numero=8
+7
+0
+1
+8
+numero=9
+4
+1
+58
+'el equivalente en romanos del numero', (numero), ' es: X'
+13
+4
+1
+58
+'el equivalente en romanos del numero', (numero),' es: IX'
+13
+13
+4
+1
+60
+'el equivalente en romanos del numero', (numero),' es: VIII'
+13
+13
+4
+1
+58
+'el equivalente en romanos del numero',(numero),' es: VII'
+13
+13
+4
+1
+58
+'el equivalente en romanos del numero', (numero),' es: VI'
+13
+13
+4
+1
+57
+'el equivalente en romanos del numero', (numero),' es: V'
+13
+13
+4
+1
+58
+'el equivalente en romanos del numero' ,(numero),' es: IV'
+13
+13
+4
+1
+59
+'el equivalente en romanos del numero' ,(numero),' es: III'
+13
+13
+4
+1
+58
+'el equivalente en romanos del numero' ,(numero),' es: II'
+13
+13
+4
+1
+61
+'El equivalente en romanos del Numero  ',(numero), '  es:  I'
+13
+13
+4
+1
+93
+'Solo se permiten numeros del 1 al 10 favor escribamente el numero dentro del rango anterior'
+5
+1
+6
+numero
+13
+1

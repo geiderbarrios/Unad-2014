@@ -1,0 +1,49 @@
+#include <stdio.h> 
+#include <conio.h>           
+#include <stdlib.h>  
+  int numero,                
+    maxIntentos,            
+    intento,                   
+    i;                         
+         
+ 
+ int main()                  
+  { 
+     
+  
+
+
+     numero = rand()%50; 
+    printf("\t\tUNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA\n\n");
+   printf("\t\t Juego para adivinar un numero aleatorio\n\n");	  
+ 
+     puts("Introduce el numero de intentos"); 
+     scanf("%d", &maxIntentos); 
+  
+
+  
+     for (i=maxIntentos-1; i>=0; i--)             
+     { 
+        puts("Introduce un numero");             
+        scanf("%d", &intento); 
+        if (intento == numero)                    
+        { 
+           printf("Acertaste!\n");               
+           return 0; 
+        } 
+        if (intento < numero )                    
+           printf("Te has quedado corto\n");      
+        else 
+           printf("Te has pasado\n"); 
+  
+        if ( i>0 )                                
+          printf("\nQuedan %d intentos.\n",       
+            i); 
+     } 
+     puts("Se te acabaron los intentos\n");     
+     puts("Gracias por tu Colaboracion...\n"); 
+	 getch();
+	 return 0;                               
+ 	
+	 
+}

@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+'PROGRAMA PARA CONOCER EL VALOR DE LA  VARIABLE Y , UD DEBE DIGITAR EL VALOR DE LA VARIABLE X'
+4
+1
+38
+'El numero que digite debe ser entero'
+4
+1
+37
+'Escriba el valor de la variable X: '
+5
+1
+1
+x
+9
+1
+13
+x != TRUNC(x)
+4
+1
+36
+'El valor  no es un número entero!.'
+5
+1
+1
+x
+11
+7
+0
+1
+5
+x < 0
+7
+0
+1
+20
+(x >= 0) AND (x < 3)
+7
+0
+1
+21
+(x >= 3) AND (x <= 6)
+6
+1
+1
+y
+1
+0
+13
+6
+1
+1
+y
+7
+100 / x
+13
+13
+6
+1
+1
+y
+9
+3 * x + 5
+13
+13
+6
+1
+1
+y
+6
+85 * x
+13
+4
+1
+33
+'El resultado de la función Y=',y
+1

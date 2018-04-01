@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Este programa determinara su aumenot'
+4
+1
+30
+'Digite el valor de su sueldo'
+5
+1
+1
+s
+7
+0
+1
+9
+s<=515000
+7
+0
+1
+23
+s>=515000 and s<1030000
+6
+1
+2
+s3
+7
+s*5/100
+4
+1
+35
+'El valor de su aumento sera   ',s3
+13
+6
+1
+2
+s2
+8
+s*10/100
+4
+1
+35
+'El valor de su aumento sera   ',s2
+13
+13
+6
+1
+2
+s1
+13
+515000*20/100
+4
+1
+35
+'El valor de su aumento sera   ',s1
+13
+4
+1
+9
+'Gracias'
+1

@@ -1,0 +1,61 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+gotoxy(8,12);
+cout<<"M   ";
+gotoxy(8,13);
+cout<<"1";
+gotoxy(8,14);
+cout<<"8";
+gotoxy(8,15);
+cout<<"15";
+gotoxy(8,16);
+cout<<"22";
+gotoxy(8,17);
+cout<<"29";
+gotoxy(14,12);
+cout<<"J        " ;
+gotoxy(14,13);
+cout<<"2";
+gotoxy(14,14);
+cout<<"9";
+gotoxy(14,15);
+cout<<"16";
+gotoxy(14,16);
+cout<<"23";
+gotoxy(14,17);
+cout<<"30";
+gotoxy(20,12);
+cout<<"V         ";
+gotoxy(20,13);
+cout<<"3";
+gotoxy(20,14);
+cout<<"10";
+gotoxy(20,15);
+cout<<"17";
+gotoxy(20,16);
+cout<<"24";
+gotoxy(26,12);
+cout<<"S        " ;
+gotoxy(26,13);
+cout<<"4";
+gotoxy(26,14);
+cout<<"11";
+gotoxy(26,15);
+cout<<"18";
+gotoxy(26,16);
+cout<<"25";
+gotoxy(32,12);
+cout<<"D         ";
+gotoxy(32,13);
+cout<<"5";
+gotoxy(32,14);
+cout<<"12";
+gotoxy(32,15);
+cout<<"19";
+gotoxy(32,16);
+cout<<"26";
+getch();
+}

@@ -1,0 +1,147 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'PROGRAMA PARA ESCRIBIR EL NUMERO EN FORMA DESCENDENTE'
+6
+3
+2
+N1
+1
+0
+2
+N2
+1
+0
+2
+N3
+1
+0
+4
+1
+27
+'Escriba el primer digito:'
+5
+1
+2
+N1
+9
+1
+16
+N1 > 9 OR N1 < 0
+4
+1
+16
+'no es válido!.'
+5
+1
+2
+N1
+11
+4
+1
+28
+'Escriba el segundo digito:'
+5
+1
+2
+N2
+9
+1
+16
+N2 > 9 OR N2 < 0
+4
+1
+16
+'No es válido!.'
+5
+1
+2
+N2
+11
+4
+1
+27
+'Escriba el tercer digito:'
+5
+1
+2
+N3
+9
+1
+16
+N3 > 9 OR N3 < 0
+4
+1
+13
+'No válido!.'
+5
+1
+2
+N3
+11
+7
+1
+1
+7
+N1 > N2
+7
+1
+1
+7
+N2 > N3
+4
+1
+10
+N1, N2, N3
+13
+7
+1
+1
+7
+N1 > N3
+4
+1
+10
+N1, N3, N2
+13
+4
+1
+10
+N3, N1, N2
+13
+13
+13
+7
+0
+1
+7
+N2 < N3
+7
+0
+1
+7
+N1 < N3
+4
+1
+10
+N2, N1, N3
+13
+4
+1
+10
+N2, N3, N1
+13
+13
+4
+1
+10
+N3, N2, N1
+13
+13
+1

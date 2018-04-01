@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'PROGRAMA PARA CALCULAR LA EDAD DE UNA PERSONA'
+4
+1
+29
+'DIGITE SU AÑO DE NACIMIENTO'
+5
+1
+3
+AÑO
+6
+1
+4
+edad
+10
+2014-(año)
+4
+1
+23
+'SU EDAD ES DE   ',edad
+1

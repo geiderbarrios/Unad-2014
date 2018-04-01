@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+109
+'Este programa le indicara el valor a pagar por una venta, y se le aumentara el valor ds descuento y del iva'
+4
+1
+31
+'Digite el valor de las ventas'
+5
+1
+1
+V
+7
+0
+1
+3
+v=0
+13
+13
+6
+2
+2
+v1
+8
+v*16/100
+3
+iva
+4
+v+v1
+7
+0
+1
+9
+iva>50000
+4
+1
+29
+'El valor a pagar es de ',iva
+13
+6
+2
+2
+v1
+9
+iva*5/100
+2
+v2
+6
+iva-v1
+4
+1
+28
+'El valor a pagar es de ',V2
+13
+4
+1
+123
+'Gracias por utilizar los servicios de los primeros pasos de Algoritmos de Joan, esperamos que el programa le haya servido'
+1
